@@ -1,0 +1,74 @@
+{
+  "profile": {
+    "name": "YUMEKOV",
+    "verified": "VERIFIED",
+    "role": "Systems Architect • Creative Technologist • Audio DSP",
+    "statusText": "In Deep Focus — Building Core v4.2",
+    "statusColor": "#10b981",
+    "pgpKey": "9F4B 2E8A",
+    "avatarUrl": "",
+    "avatarLetter": "Y",
+    "bio": "Проектирование высоконагруженных интерфейсов, низкоуровневых аудио-систем и минималистичной цифровой архитектуры. Персональный хаб с живой телеметрией проектов и авторской фонотекой домена yumekov.xyz.",
+    "tags": [
+      "Rust / WebAssembly",
+      "TypeScript",
+      "WebAudio DSP",
+      "Next.js / React",
+      "System Architecture",
+      "UI Engineering"
+    ],
+    "socials": [
+      { "title": "Telegram", "handle": "@yumekov", "url": "https://t.me/yumekov", "icon": "send" },
+      { "title": "GitHub", "handle": "github.com/flax-app", "url": "https://github.com/flax-app", "icon": "github" },
+      { "title": "Discord", "handle": "yumekov", "url": "https://discord.com", "icon": "message-square" },
+      { "title": "Direct Mail", "handle": "core@yumekov.xyz", "url": "mailto:core@yumekov.xyz", "icon": "mail" }
+    ]
+  },
+  "theme": {
+    "accent": "#8b5cf6",
+    "accentGlow": "#c084fc",
+    "bgMode": "particles",
+    "customWallpaperUrl": "",
+    "wallpaperDim": 0.65,
+    "glassBlur": 18,
+    "particleSpeed": 1.0,
+    "cardTilt": true
+  },
+  "telemetry": {
+    "workspace": {
+      "project": "yumekov-core-engine",
+      "file": "src/dsp/spectral_analyzer.rs",
+      "stack": "Rust / WebAudio",
+      "progress": 84
+    },
+    "commits": [
+      { "hash": "a94f1c2", "msg": "feat(arch): multi-file modular architecture & GitHub API sync", "branch": "main", "time": "Только что", "diff": "+512 / -48" },
+      { "hash": "7b2e09d", "msg": "feat(audio): custom stream URL & DSP synthesizer engine", "branch": "main", "time": "2 часа назад", "diff": "+295 / -61" }
+    ],
+    "metrics": {
+      "cpu": "18% • 4.8 GHz",
+      "ram": "6.4 GB / 32 GB",
+      "ping": "14 ms (FRA-01)",
+      "uptime": "99.98%"
+    }
+  },
+  "tracks": [
+    {
+      "id": "dsp-1",
+      "title": "Amethyst Neural Pulse (Synth)",
+      "artist": "YUMEKOV DSP",
+      "type": "synth",
+      "preset": "amethyst",
+      "url": ""
+    }
+  ],
+  "github": {
+    "owner": "flax-app",
+    "repo": "yumekov.xyz",
+    "branch": "main",
+    "path": "config/site-data.json"
+  },
+  "security": {
+    "passwordHash": "26f503212d28257b3d6f5b00926607b2e5a95725e52f23f02a4673f8f8245b87"
+  }
+}
